@@ -1,0 +1,23 @@
+{
+    "wavelength_low": 400,
+    "wavelength_high": 680,
+    "wlimit": 29,
+    "shape": "arbitrary",
+    "noise_dim": 100,
+    "spec_dim": 58,
+    "ctrast_dim": 14,
+    "net_depth": 32,
+    "batch_size_g": 256,
+    "batch_size_s": 1024,
+    "epochs": 1000,
+    "ratio": 0.8,
+    "lr_g": 0.02,
+    "lr_s": 0.02,
+    "step_size_g": 200,
+    "step_size_s": 50,
+    "alpha": 0.05,
+    "beta": 0.0,
+    "gamma_g": 0.5,
+    "gamma_s": 0.5,
+    "save_epoch": 100
+}
