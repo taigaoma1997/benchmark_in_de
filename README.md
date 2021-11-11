@@ -18,7 +18,7 @@ Source code for the paper 'Benchmarking Deep Learning-based Models on Nanophoton
 
 
 ### 
-Due to the file size limitation in Github, please download the training data, several trained models, and the predicted results here:  After download, add those folders under './task_2_free_form/....'.
+Due to the file size limitation in Github, please download the training data, several trained models, and the predicted results here:https://drive.google.com/drive/folders/1VXDLD6ydglWOBs8TvXCm3-S5YbgiWuU4?usp=sharing. After download, add those folders under './task_2_free_form/....'.
 
 
 
