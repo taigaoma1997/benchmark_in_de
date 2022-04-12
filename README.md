@@ -4,12 +4,27 @@ This repository is the implementation of paper [Benchmarking deep learning-based
 
 # Introduction
 ## 1. Two inverse design tasks:
+![Geometry illustration](./Figures/Structures.png)
+### (a) Template structure: Silicon Nanorods for structural color inverse design. 
 
-### Color inverse design based on template structures.
+This structure can be described by 4 parameters: Period (P), Diameter (D), Gap (G), and Height (H). 
 
-### Transmission spectrum inverse design based on the free-from structures. 
+The optical response is reflection structural color. 
 
-## 2. 
+### (b) Freeform structure: Transmission spectrum inverse design based on the Si free-from structures. 
+
+This structure is described by a pixlated image. 
+
+The optical response is the transmission. 
+
+## 2. Three examined deep learning models
+![Model illustrations](./Figures/Models.png)
+### (b) [Tandem networks](https://onlinelibrary.wiley.com/doi/10.1002/adma.201905467)
+### (c) Variational Auto-Encoders [(VAE)](https://proceedings.neurips.cc/paper/2015/file/8d55a249e6baa5c06772297520da2051-Paper.pdf)
+### (d) Generative Adversarial Networks [(GAN)](https://arxiv.org/pdf/1411.1784.pdf)
+
+## 3. Three evaluation metrics
+![Metrics summary](./Figures/Metrics.png)
 
 
 
