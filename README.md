@@ -41,7 +41,7 @@ Please download the dataset, the trained models, the predicted structures (for d
 
 ## 2. Simulation
 
-All datasets are simulated using the [RCWA reticolo packages](https://zenodo.org/record/3610175#.YlTu6eiZOCq) in MATLAB. The technical file is [here](https://arxiv.org/ftp/arxiv/papers/2101/2101.00901.pdf). We provide examples of simulating the template and free-form structures in the folder **'./RCWA'**.  
+All datasets are simulated using the [RCWA reticolo packages](https://zenodo.org/record/3610175#.YlTu6eiZOCq) in MATLAB. You can find its introduction and technical file [here](https://arxiv.org/ftp/arxiv/papers/2101/2101.00901.pdf). We provide examples of simulating the template and free-form structures in the folder **'./RCWA'**.  
 
 ### (a) How to simulate the free-form structures?
 
