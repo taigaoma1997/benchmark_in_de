@@ -1,15 +1,15 @@
-# benchmark_in_de
+# Benchmarking Deep Learning-based Models on Nanophotonic Inverse Design Problems
 
-Source code for the paper 'Benchmarking Deep Learning-based Models on Nanophotonic Inverse Design Problems'.
+This repository is the implementation of paper [Benchmarking deep learning-based models on nanophotonic inverse design problems](https://www.oejournal.org/article/doi/10.29026/oes.2022.210012)
 
-## Two inverse design tasks:
+# Introduction
+## 1. Two inverse design tasks:
 
 ### Color inverse design based on template structures.
 
-
 ### Transmission spectrum inverse design based on the free-from structures. 
 
-
+## 2. 
 
 
 
