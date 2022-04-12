@@ -1,1 +1,1 @@
-Upzip the Reticolo package **'Reticolo V8'**, or specify the download location. 
+Upzip the Reticolo package **'RETICOLO V8'**, or specify the download location. 
