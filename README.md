@@ -73,7 +73,7 @@ end
 
 ```
 
-The way to generate free-from structures is similar to [this](https://github.com/shapely/shapely). 
+The way to generate free-from structures is similar to [this](https://github.com/shapely/shapely). We also give the code to generate images in file './tasks2_free_form/image_process.py'.
 
 # Cite
 
