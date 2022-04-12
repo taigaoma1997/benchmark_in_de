@@ -6,11 +6,11 @@ This is the repository for Task 1:  The template structure for silicon structura
 
 `./data`: Dataset used for training.
 
-`./data_predicted': The 1000 predicted structure for Green color inverse design. Used for analyze diversity. 
+`./data_predicted`: The 1000 predicted structure for Green color inverse design. Used for analyze diversity. 
 
 `./models`: Saved 3 models (tandem, VAE, GAN).
 
 `check_color.ipynb`: Examine the diversity of each model. 
 
-`check_results_final.ipynb': Examine the traininig process and color accuracy. 
+`check_results_final.ipynb`: Examine the traininig process and color accuracy. 
 
