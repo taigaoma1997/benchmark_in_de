@@ -7,7 +7,7 @@ This repository is the implementation of paper [Benchmarking deep learning-based
 ![Geometry illustration](./Figures/Structures.png)
 ### (a) Template structure: Silicon Nanorods for structural color inverse design. 
 
-This structure can be described by 4 parameters: Period (P), Diameter (D), Gap (G), and Height (H). 
+This structure can be described by 4 parameters: **Period (P), Diameter (D), Gap (G), and Height (H)**. 
 
 The optical response is reflection structural color. 
 
@@ -27,8 +27,15 @@ The optical response is the transmission.
 ![Metrics summary](./Figures/Metrics.png)
 
 
+# Usage
 
-## How to load files
+## 1. Load the dataset and necessary files
+
+(1) Task 1: The dataset is already included in this folder './tasks1_template' 
+
+(2) Task 2: Please download the dataset, the trained models, the predicted structures (for diversity metrics) from the google drive [folder](https://drive.google.com/drive/folders/1VXDLD6ydglWOBs8TvXCm3-S5YbgiWuU4?usp=sharing), and put it under the folder './tasks2_free_form'. 
+
+## 2. 
 
 
 
