@@ -1,6 +1,6 @@
 # Benchmarking Deep Learning-based Models on Nanophotonic Inverse Design Problems
 
-This repository is the implementation of paper [Benchmarking deep learning-based models on nanophotonic inverse design problems](https://www.oejournal.org/article/doi/10.29026/oes.2022.210012)
+This repository is the implementation of paper [Benchmarking deep learning-based models on nanophotonic inverse design problems](https://www.oejournal.org/article/doi/10.29026/oes.2022.210012).
 
 # Introduction
 ## 1. Two inverse design tasks:
@@ -77,7 +77,7 @@ The way to generate free-from structures is similar to [this](https://github.com
 
 # Cite
 
-If you reference or cite in your research, please cite: 
+If you reference or cite this work in your research, please cite: 
 
 Ma TG, Tobah M, Wang HZ, Guo LJ. Benchmarking deep learning-based models on nanophotonic inverse design problems. Opto-Electron Sci 1, 210012 (2022). doi: 10.29026/oes.2022.210012
 
