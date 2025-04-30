@@ -37,7 +37,7 @@ The dataset is already included in the folder **'./tasks1_template'**.
 
 ### (2) Task 2: 
 
-Please download the dataset, the trained models, the predicted structures (for diversity metrics) from the google drive [folder](https://drive.google.com/drive/folders/1VXDLD6ydglWOBs8TvXCm3-S5YbgiWuU4?usp=sharing), and put it under the folder **'./tasks2_free_form'**. 
+Please download the dataset, the trained models, the predicted structures (for diversity metrics) from the google drive [folder](https://drive.google.com/drive/folders/1nwDYW01kd4GZi76ZgyUJVapkKmTgv_h_?usp=drive_link), and put it under the folder **'./tasks2_free_form'**. 
 
 ## 2. Simulation
 
